@@ -1,4 +1,4 @@
-# Python Essentials Notebook Collection
+# Python Essentials Notebook Collections
 
 This repository contains beginner to intermediate level Jupyter Notebooks covering essential Python concepts. Each file focuses on a specific topic, making it easy to follow and practice.
 
