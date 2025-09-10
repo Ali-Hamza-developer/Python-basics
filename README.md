@@ -14,7 +14,7 @@ This repository provides Jupyter Notebooks that cover beginner to intermediate P
 9. **Functions**  
 10. **Exceptions**  
 11. **Classes**  
-
+12. **Extras (Additional Concepts)**
 
 ## 🚀 Best For
 - Beginners learning Python step by step  
